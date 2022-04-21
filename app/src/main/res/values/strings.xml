@@ -14,4 +14,5 @@
     <string name="titleSettings">Settings</string>
     <string name="titleCreateGroup">Create Group</string>
     <string name="titleAddUserToList">Add user to the group</string>
+    <string name="lblTitleUsername">Username</string>
 </resources>
