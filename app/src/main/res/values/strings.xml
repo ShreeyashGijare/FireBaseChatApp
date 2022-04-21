@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FirebaseChatApp</string>
+    <string name="imageContentDescription">Image</string>
+
+    <string name="hintName">Name</string>
+    <string name="hintEmail">Email</string>
+    <string name="hintPassword">Password</string>
+
+    <string name="btnLoginIn">Login In</string>
+    <string name="btnLogout">Log Out</string>
+    <string name="btnSignUp">Sign Up</string>
+    <string name="pleaseWait">Please Wait</string>
+    <string name="typeMessage">Type a Message</string>
+    <string name="titleSettings">Settings</string>
+    <string name="titleCreateGroup">Create Group</string>
+    <string name="titleAddUserToList">Add user to the group</string>
+</resources>
