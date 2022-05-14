@@ -238,7 +238,7 @@ class ChatActivity : BaseActivity() {
         val actionBar = supportActionBar
 //        binding?.toolbarChatActivity?.inflateMenu(R.menu.menu_chat)
         actionBar!!.setDisplayHomeAsUpEnabled(true)
-        actionBar.setHomeAsUpIndicator(R.drawable.ic_arrow_back_24)
+        actionBar.setHomeAsUpIndicator(R.drawable.ic_baseline_arrow_back_ios_24)
         binding?.toolbarChatActivity?.setNavigationOnClickListener {
             onBackPressed()
         }
